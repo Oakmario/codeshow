@@ -122,6 +122,8 @@
     <Content Include="pages\hub\hub.css" />
     <Content Include="pages\hub\hub.html" />
     <Content Include="default.html" />
+    <Content Include="pages\privacy\privacy.css" />
+    <Content Include="pages\privacy\privacy.html" />
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="Microsoft.WinJS.2.0, Version=1.0" />
